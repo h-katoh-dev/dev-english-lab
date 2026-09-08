@@ -12,6 +12,9 @@
 - [x] Structured feedback UI
 - [x] Empty / submitting / API error states
 - [x] No auth or persistence in the initial slice
+- [ ] Local lint / build validation
+- [ ] Browser smoke test and screenshot
+- [ ] Confirm the merged `main` branch is runnable end-to-end
 
 ## Phase 2 — Validation
 - [ ] Expand to 5 scenario types
